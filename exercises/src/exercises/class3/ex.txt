@@ -1,0 +1,7 @@
+Exercicio 1 - Construir um relogio que imprime um texto junto ao tempo em segundos.
+
+Exercicio 2 - Construir um relogio que permite tic configuravel em segundos ou milisegundos.
+
+Exercicio 3 - Construir um relogio que permite tic configuravel para qualquer intervalo de tempo em ms.
+
+Exercicio 4 - Relogio que recebe uma flag on-off e desliga (sai do loop)
