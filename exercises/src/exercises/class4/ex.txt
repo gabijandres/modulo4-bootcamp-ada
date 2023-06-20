@@ -1,0 +1,7 @@
+- Criar um Record com seu respectivo Schema para as entidades:
+Turma
+Aluno
+Professor
+Presenca
+- Criar um Protocol para Registrar Presenca recebendo o id do aluno, id da turma e data
+OBS: Para todos os schemas iniciar com o minimo de atributos e compor posteriormente
