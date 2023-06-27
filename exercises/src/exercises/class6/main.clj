@@ -1,5 +1,6 @@
-; Ex 1
+(ns exercises.class6.main)
 
+; Ex 1
 (def coll (range 10))
 (def max-range 10)
 

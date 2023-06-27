@@ -1,3 +1,5 @@
+(ns exercises.class5.main)
+
 ; Ex 1
 (let [p (promise)]
   (let [google {:url "https://google.com"
